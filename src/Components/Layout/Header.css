@@ -1,0 +1,14 @@
+.nav-bar {
+    background-color: black;
+    height: 58px;
+    line-height: 60px;
+    margin-bottom: 10px;
+}
+
+.site-name {
+    margin-top: 10px;
+    color: white;
+    vertical-align: middle;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+} 
