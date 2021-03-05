@@ -6,7 +6,7 @@ function Header() {
     <header>
       <div class="nav-bar">
         <div class="site-name">
-          <h1>HOMEWORK</h1> 
+          <h1>To-Do-List</h1> 
         </div>
       </div>
     </header>

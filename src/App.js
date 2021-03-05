@@ -12,7 +12,7 @@ class App extends Component {
     homework: [
       {
         id: uuid.v4(),
-        title: 'Example: Science Test',
+        title: 'Example: Calculus Test',
         completed: false
       },
     ]
